@@ -6,7 +6,7 @@ Este projeto é composto por uma API e uma interface web que simulam um sistema 
 ##  Estrutura do Projeto
 
 ```
-Atividade-Token-main/
+Atividade-Token/
 ├── api/     
 └── web/    
 ```
